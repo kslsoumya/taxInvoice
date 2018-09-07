@@ -1,0 +1,31 @@
+.icons {
+    padding-top: 3vh;
+    cursor: pointer;
+}
+.defaultPage {
+    text-align: center;
+}
+
+.fa-plus-circle {
+    color: blueviolet;
+}
+
+.fa-minus-circle {
+    color: #ff0000bd;
+
+}
+h3 {
+    font-weight: bold;
+    font-style: italic;
+    color: coral;
+}
+.invoice {
+    width: 80vw;
+    text-align: center;
+    /* margin-top: 20vh; */
+    
+}
+table {
+    padding: 2vh 0 2vh 0;
+    /* box-shadow: 2px 2px #dee2e6; */
+}
